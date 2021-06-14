@@ -2,4 +2,4 @@ MY RESOLUSI
 - Membuat web untuk jurusan
 - Membuat web untuk cb
 - Membuat game web sederhana
-- Membuat web perusahaan
+- Membuat artificial intelligence
