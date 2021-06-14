@@ -1,5 +1,8 @@
 RENCANA WEB TMPO
 
 - fitur materi
+  materi untuk kelas X, XI bisa diakses,
+  kelas X : tdo, pdto, gambar teknik
+  kelas XI : chasis, kelistrikan dan mesin
 - galeri
 - materi extra
