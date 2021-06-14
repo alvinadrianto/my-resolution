@@ -7,6 +7,7 @@ RENCANA WEB TMPO
   
 - galeri
   galeri foto guru2 yang ada di jurusan tmpo
+  galeri murid2
   
 - materi extra
 
